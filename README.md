@@ -6,5 +6,5 @@
 	}
   
   	dependencies {
-	        compile 'com.github.AnonymTBJ:MarqueeView:v1.1'
+	        compile 'com.github.AnonymTBJ:MarqueeView:v1.2'
 	}
